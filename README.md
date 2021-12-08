@@ -1,1 +1,3 @@
 # MedicalWebsite
+
+npm start
